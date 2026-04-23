@@ -1,16 +1,52 @@
-## Hi there 👋
+# 📘 README – Perfil del Estudiante
 
-<!--
-**MarianelaBenitez/MarianelaBenitez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧾 Información General
 
-Here are some ideas to get you started:
+- **Nombre completo: Marianela Saraí Benítez Gabriel**  
+- **Edad: 17 años**  
+- **Grado / Sección: 3° Bachillerato en Desarrollo Software "B"**  
+- **Especialidad: Desarrollo de Software**  
+- **Institución: Instituto Nacional de Santiago de María**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 Intereses
+
+- Videojuegos  
+- Aprender cosas nuevas  
+- Tejer   
+
+---
+
+## 🧠 Habilidades
+
+- Creatividad  
+- Trabajo en equipo  
+- Hablar en público  
+
+---
+
+## 💻 Conocimientos Técnicos
+
+- Lenguajes de programación: Php, python, HTML
+- Herramientas tecnológicas:  Visual Studio Code, NetBeans, Wampp Server, Xampp, SQL Server Management Studio
+- Otros conocimientos:  
+
+---
+
+## 📚 Experiencia Académica
+
+- Proyecto o trabajo 1  
+- Proyecto o trabajo 2  
+
+---
+
+## 🎯 Objetivos Personales
+
+- Aprender más lenguajes de programación  
+
+---
+
+## 📌 Notas
+
+Deseo poder aprender muchísimo sobre el desarrollo de software a lo largo de este año
