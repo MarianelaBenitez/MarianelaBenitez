@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/MarianelaBenitez/MarianelaBenitez/blob/51765233894bb9d00e6f900f17494c1b10079c8b/Gemini_Generated_Image_ijfn51ijfn51ijfn.png />
+  <img src="https://github.com/MarianelaBenitez/MarianelaBenitez/blob/51765233894bb9d00e6f900f17494c1b10079c8b/Gemini_Generated_Image_ijfn51ijfn51ijfn.png"/>
 </p>
 # 📘 README – Perfil del Estudiante
 
